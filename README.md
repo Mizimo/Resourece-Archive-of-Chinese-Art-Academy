@@ -1,2 +1,21 @@
-# Resourece-Archive-of-Chinese-Art-Academy
-Resourece Archive of Chinese Art Academy
+﻿# Resourece-Archive-of-Chinese-Art-Academy
+# 中国艺术类院校资源汇总
+
+---
+
+>本仓库收录课程资源，笔记，总结，作品简述。以及**学生原创内容**
+
+# 版权声明
+
+---
+
+本仓库分享的资料应遵守原作者规定，自愿上传，需要学生原创或者已授权的资源。
+对于没有特别声明的资料，[谨以知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)授权。
+
+如有任何内容侵犯了您的合法权益，请联系我们及时改正。
+
+---
+
+## 注意事项
+
+- github 上不能直接上传大于 100mb 的文件。对于超过 100 mb 的文件，可以存在网盘，然后在 README 文件中贴上链接
